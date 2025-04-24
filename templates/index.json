@@ -811,6 +811,32 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "featured_collection_zRQLpY": {
+      "type": "featured-collection",
+      "name": "Inspiration MOSCOT",
+      "settings": {
+        "collection": "casques",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Inspiration MOSCOT",
+        "content": "",
+        "link_url": "",
+        "link_text": "Voir toutes les lunettes",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -828,6 +854,7 @@
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "faq"
+    "faq",
+    "featured_collection_zRQLpY"
   ]
 }
