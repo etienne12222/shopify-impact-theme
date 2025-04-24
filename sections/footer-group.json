@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Inscrivez-vous pour de nouvelles histoires et des offres personnelles",
             "content": ""
           }
         },
@@ -107,8 +107,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "",
+            "content": "<p><strong>Chez Royal Glasses, nous croyons que chaque regard mérite de briller.</strong><br/><br/>Notre mission ? Offrir des lunettes de soleil au style affirmé, alliant élégance, confort et caractère.<br/><br/>Inspirée par l’allure royale et les tendances urbaines, notre marque célèbre la confiance en soi, l’expression personnelle et le luxe accessible.</p><p><strong>Porter Royal Glasses, c’est plus qu’un choix de style — c’est une attitude.</strong></p>",
             "enable_follow_on_shop": true
           }
         }
