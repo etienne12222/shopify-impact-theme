@@ -69,6 +69,32 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "featured_collection_zRQLpY": {
+      "type": "featured-collection",
+      "name": "Inspiration MOSCOT",
+      "settings": {
+        "collection": "casques",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Inspiration MOSCOT",
+        "content": "",
+        "link_url": "",
+        "link_text": "Voir toutes les lunettes",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -78,18 +104,6 @@
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://products/blue-leopard",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -135,7 +149,6 @@
       },
       "block_order": [
         "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
         "1664424046b00c932c-2",
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
@@ -159,11 +172,11 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "Livraison dans le monde entier !",
         "text_size": "large",
-        "text_style": "fill",
+        "text_style": "outline",
         "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "scrolling_speed": 3,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -811,36 +824,11 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "featured_collection_zRQLpY": {
-      "type": "featured-collection",
-      "name": "Inspiration MOSCOT",
-      "settings": {
-        "collection": "casques",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Inspiration MOSCOT",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir toutes les lunettes",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
     "slideshow",
+    "featured_collection_zRQLpY",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
@@ -854,7 +842,6 @@
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "faq",
-    "featured_collection_zRQLpY"
+    "faq"
   ]
 }
