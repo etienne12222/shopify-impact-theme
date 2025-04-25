@@ -30,14 +30,14 @@
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
+            "icon": "picto-love",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "Validation",
+            "content": "<p>Notre boutique validé par vos influenceurs préférés</p>"
           }
         },
         "discount": {

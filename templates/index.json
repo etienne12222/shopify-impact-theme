@@ -97,37 +97,6 @@
         "product_card_text_color": ""
       }
     },
-    "video_4AtFDE": {
-      "type": "video",
-      "blocks": {
-        "play_abiczW": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_yVtHDc": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_abiczW",
-        "heading_yVtHDc"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -202,6 +171,37 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "video_4AtFDE": {
+      "type": "video",
+      "blocks": {
+        "play_abiczW": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_yVtHDc": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_abiczW",
+        "heading_yVtHDc"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "featured-product": {
@@ -420,9 +420,9 @@
   "order": [
     "slideshow",
     "featured_collection_zRQLpY",
+    "impact-text",
     "video_4AtFDE",
     "scrolling-text",
-    "impact-text",
     "featured-product",
     "before-after-image",
     "media-grid",
