@@ -152,7 +152,7 @@
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(0deg, rgba(26, 26, 26, 0.2) 17%, rgba(26, 26, 26, 1) 49%, rgba(26, 26, 26, 0.2) 69%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 96%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0) 100%)",
+        "heading_gradient": "linear-gradient(0deg, rgba(26, 26, 26, 1) 49%, rgba(26, 26, 26, 0.2) 69%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 96%, rgba(26, 26, 26, 1) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
