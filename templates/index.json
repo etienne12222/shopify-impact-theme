@@ -464,6 +464,7 @@
       "name": "Hot spots",
       "settings": {
         "full_width": true,
+        "image": "shopify://shop_images/Pack_Girl_and_Boy.png",
         "mobile_image": "shopify://shop_images/Pack_Girl_and_Boy.png",
         "title": "",
         "content": "",
