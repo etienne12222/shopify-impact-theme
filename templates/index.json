@@ -88,7 +88,7 @@
         "content": "",
         "link_url": "",
         "link_text": "Voir toutes les lunettes",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -147,11 +147,11 @@
         "stack_mobile": true,
         "text_alignment": "center",
         "impact_text_style": "fill",
-        "text_divider": "none",
+        "text_divider": "line",
         "impact_text_size_ratio": 1,
         "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
+        "background_gradient": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)",
+        "heading_text_color": "#686363",
         "heading_gradient": "linear-gradient(0deg, rgba(26, 26, 26, 1) 49%, rgba(26, 26, 26, 0.2) 69%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 96%, rgba(26, 26, 26, 1) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
@@ -192,16 +192,16 @@
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "text": "Livraison dans le monde entier !",
         "text_size": "large",
-        "text_style": "outline",
+        "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 3,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "text_gradient": ""
+        "text_gradient": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)"
       }
     },
     "featured-product": {
