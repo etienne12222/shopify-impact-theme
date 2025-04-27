@@ -91,7 +91,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "",
             "show_menu_title": true
           }
         },
