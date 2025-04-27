@@ -182,7 +182,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": false,
-        "video_size": "auto",
+        "video_size": "sm",
         "video": "shopify://files/videos/98ccd611ec904906ba3204cf4db9c88f.mov",
         "external_video_url": "https://www.youtube.com/watch?v=Ns7EPwcDtzY",
         "text_color": "#ffffff",
@@ -200,9 +200,9 @@
         "scrolling_mode": "auto",
         "scrolling_speed": 3,
         "background": "#ffffff",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)",
         "text_color": "",
-        "text_gradient": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)"
+        "text_gradient": ""
       }
     },
     "featured-product": {
