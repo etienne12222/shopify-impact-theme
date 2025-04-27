@@ -150,9 +150,9 @@
         "text_divider": "line",
         "impact_text_size_ratio": 1,
         "background": "",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(216deg, rgba(251, 51, 166, 1) 45%, rgba(48, 145, 211, 1) 51%, rgba(127, 72, 176, 1) 52%)",
         "heading_text_color": "#000000",
-        "heading_gradient": "linear-gradient(0deg, rgba(26, 26, 26, 1) 72%, rgba(26, 26, 26, 0) 73%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 76%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 86%, rgba(26, 26, 26, 1) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%)",
+        "heading_gradient": "linear-gradient(0deg, rgba(26, 26, 26, 1) 72%, rgba(255, 39, 39, 0) 73%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 76%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 86%, rgba(26, 26, 26, 1) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
