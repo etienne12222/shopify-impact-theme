@@ -367,6 +367,13 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_dgpGG3": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que vos lunettes de soleil protègent réellement contre le soleil ?",
+            "content": "<p>Oui, toutes nos lunettes de soleil offrent une protection à 100% contre les rayons UV (UVA et UVB). Elles sont conçues pour préserver vos yeux des effets nocifs du soleil tout en assurant confort et style.</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -390,6 +397,7 @@
         }
       },
       "block_order": [
+        "item_dgpGG3",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2"
