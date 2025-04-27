@@ -194,7 +194,7 @@
       "settings": {
         "full_width": false,
         "text": "Livraison dans le monde entier !",
-        "text_size": "large",
+        "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 3,
