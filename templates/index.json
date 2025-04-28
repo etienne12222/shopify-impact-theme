@@ -300,6 +300,66 @@
         "input_text_color": ""
       }
     },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "item_dgpGG3": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que vos lunettes de soleil protègent réellement contre le soleil ?",
+            "content": "<p>Oui, toutes nos lunettes de soleil offrent une protection à 100% contre les rayons UV (UVA et UVB). Elles sont conçues pour préserver vos yeux des effets nocifs du soleil tout en assurant confort et style.</p>"
+          }
+        },
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Expédiez-vous à l'étranger ?",
+            "content": "<p>Oui, nous livrons partout dans le monde. Des frais de livraison s'appliquent et seront ajoutés au moment du paiement. Nous proposons des réductions et des promotions toute l'année, alors restez connectés pour découvrir des offres exclusives.<br/><br/></p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps faudra-t-il pour recevoir mes commandes ?",
+            "content": "<p>Cela dépend de votre localisation. Les commandes traitées ici prennent entre 5 et 7 jours ouvrés pour arriver. Les livraisons à l'étranger peuvent prendre entre 7 et 16 jours. Les détails de livraison seront indiqués dans votre e-mail de confirmation.<br/><br/></p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Des questions ?",
+            "content": "<p>Vous pouvez nous contacter via notre page de contact ! Nous serons ravis de vous aider.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_dgpGG3",
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Informations sur nos produits ou nos politiques d'expédition.<br/><br/></p>",
+        "team_avatar_width": 160,
+        "support_hours": "Notre support client est disponible du lundi au vendredi : de 8h à 20h30.",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
@@ -363,66 +423,6 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
-    },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "item_dgpGG3": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que vos lunettes de soleil protègent réellement contre le soleil ?",
-            "content": "<p>Oui, toutes nos lunettes de soleil offrent une protection à 100% contre les rayons UV (UVA et UVB). Elles sont conçues pour préserver vos yeux des effets nocifs du soleil tout en assurant confort et style.</p>"
-          }
-        },
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Expédiez-vous à l'étranger ?",
-            "content": "<p>Oui, nous livrons partout dans le monde. Des frais de livraison s'appliquent et seront ajoutés au moment du paiement. Nous proposons des réductions et des promotions toute l'année, alors restez connectés pour découvrir des offres exclusives.<br/><br/></p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps faudra-t-il pour recevoir mes commandes ?",
-            "content": "<p>Cela dépend de votre localisation. Les commandes traitées ici prennent entre 5 et 7 jours ouvrés pour arriver. Les livraisons à l'étranger peuvent prendre entre 7 et 16 jours. Les détails de livraison seront indiqués dans votre e-mail de confirmation.<br/><br/></p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Des questions ?",
-            "content": "<p>Vous pouvez nous contacter via notre page de contact ! Nous serons ravis de vous aider.<br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_dgpGG3",
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Informations sur nos produits ou nos politiques d'expédition.<br/><br/></p>",
-        "team_avatar_width": 160,
-        "support_hours": "Notre support client est disponible du lundi au vendredi : de 8h à 20h30.",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
     }
   },
   "order": [
@@ -432,9 +432,9 @@
     "video_4AtFDE",
     "scrolling-text",
     "featured-product",
+    "faq",
     "before-after-image",
     "media-grid",
-    "press",
-    "faq"
+    "press"
   ]
 }

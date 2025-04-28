@@ -137,7 +137,7 @@
         "text_divider": "diamond",
         "impact_text_size_ratio": 1.5,
         "background": "",
-        "background_gradient": "",
+        "background_gradient": "radial-gradient(rgba(137, 143, 239, 1), rgba(120, 196, 245, 1) 100%)",
         "heading_text_color": "",
         "heading_gradient": "",
         "text_color": "",
