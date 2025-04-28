@@ -150,9 +150,9 @@
         "text_divider": "line",
         "impact_text_size_ratio": 1,
         "background": "",
-        "background_gradient": "linear-gradient(0deg, rgba(121, 128, 252, 1) 49%, rgba(215, 204, 250, 1) 55%, rgba(247, 197, 204, 1) 100%)",
+        "background_gradient": "linear-gradient(267deg, rgba(121, 128, 252, 1) 49%, rgba(215, 204, 250, 1) 100%, rgba(247, 197, 204, 1) 100%)",
         "heading_text_color": "#000000",
-        "heading_gradient": "linear-gradient(0deg, rgba(26, 26, 26, 1) 72%, rgba(255, 39, 39, 0) 73%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 76%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 86%, rgba(26, 26, 26, 1) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%)",
+        "heading_gradient": "linear-gradient(24deg, rgba(26, 26, 26, 1) 72%, rgba(255, 39, 39, 0) 73%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 86%, rgba(26, 26, 26, 1) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
@@ -200,7 +200,7 @@
         "scrolling_mode": "auto",
         "scrolling_speed": 3,
         "background": "#ffffff",
-        "background_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+        "background_gradient": "radial-gradient(rgba(137, 143, 239, 1), rgba(120, 196, 245, 1) 100%)",
         "text_color": "",
         "text_gradient": ""
       }
