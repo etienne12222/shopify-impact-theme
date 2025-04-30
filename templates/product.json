@@ -67,10 +67,10 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#0ea4ff",
+            "atc_button_text_color": "#000000",
             "payment_button_background": "",
-            "payment_button_text_color": ""
+            "payment_button_text_color": "#000000"
           }
         }
       },
@@ -102,39 +102,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "video_QVwPyk": {
-      "type": "video",
-      "blocks": {
-        "play_gBDBaU": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_FY7TzH": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_gBDBaU",
-        "heading_FY7TzH"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "video": "shopify://files/videos/IMG_1667.mov",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "poster": "shopify://shop_images/IMG_1598.jpg",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "related-products": {
@@ -182,6 +149,39 @@
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
+      }
+    },
+    "video_QVwPyk": {
+      "type": "video",
+      "blocks": {
+        "play_gBDBaU": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_FY7TzH": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_gBDBaU",
+        "heading_FY7TzH"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/IMG_1667.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "poster": "shopify://shop_images/IMG_1598.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     }
   },
