@@ -71,6 +71,84 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "image_link_blocks_EdybJL": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_CMa8wq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1565.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://products/classic-pink",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_bmp3e8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1564.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://products/fashion-transparent-blue-round-sunglasses-women-men-2024-retro-rivet-tortoise-small-square-sun-glasses-uv400-lunettes-de-soleil",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_zg6Uye": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1561.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://products/classic-blue-1",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_zTmDfY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1567.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://products/vintage-fashion-shell-round-sunglasses-women-men-2024-brand-design-retro-rivet-yellow-blue-lens-square-sun-glasses-female-uv400-4",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_CMa8wq",
+        "item_bmp3e8",
+        "item_zg6Uye",
+        "item_zTmDfY"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "featured_collection_zRQLpY": {
       "type": "featured-collection",
       "name": "Inspiration MOSCOT",
@@ -427,6 +505,7 @@
   },
   "order": [
     "slideshow",
+    "image_link_blocks_EdybJL",
     "featured_collection_zRQLpY",
     "impact-text",
     "video_4AtFDE",
