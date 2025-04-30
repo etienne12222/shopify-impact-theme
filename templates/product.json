@@ -104,40 +104,37 @@
         "input_text_color": ""
       }
     },
-    "impact_text_MTKHMj": {
-      "type": "impact-text",
+    "video_QVwPyk": {
+      "type": "video",
       "blocks": {
-        "item_nViNwy": {
-          "type": "item",
+        "play_gBDBaU": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_FY7TzH": {
+          "type": "heading",
           "settings": {
-            "title": "2.878+",
-            "subheading": "Clients livrés",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 5
+            "text": "Video",
+            "heading_tag": "h1"
           }
         }
       },
       "block_order": [
-        "item_nViNwy"
+        "play_gBDBaU",
+        "heading_FY7TzH"
       ],
-      "name": "Impact text",
+      "name": "Video",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "diamond",
-        "impact_text_size_ratio": 1.5,
-        "background": "",
-        "background_gradient": "radial-gradient(rgba(137, 143, 239, 1), rgba(120, 196, 245, 1) 100%)",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/IMG_1667.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "poster": "shopify://shop_images/IMG_1598.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "related-products": {
@@ -190,8 +187,8 @@
   },
   "order": [
     "main",
-    "impact_text_MTKHMj",
     "related-products",
-    "1745837786ab66e8a6"
+    "1745837786ab66e8a6",
+    "video_QVwPyk"
   ]
 }
