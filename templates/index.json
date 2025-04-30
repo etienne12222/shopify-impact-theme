@@ -125,13 +125,41 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_cWmcQg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1563.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://products/fashion-transparent-blue-round-sunglasses-women-men-2024-retro-rivet-tortoise-small-square-sun-glasses-uv400-lunettes-de-soleil",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_PLxWfB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1572.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://products/vintage-fashion-shell-round-sunglasses-women-men-2024-brand-design-retro-rivet-yellow-blue-lens-square-sun-glasses-female-uv400-3",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "item_CMa8wq",
         "item_bmp3e8",
         "item_zg6Uye",
-        "item_zTmDfY"
+        "item_zTmDfY",
+        "item_cWmcQg",
+        "item_PLxWfB"
       ],
       "name": "Image link blocks",
       "settings": {
@@ -381,18 +409,11 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "item_dgpGG3": {
+        "item_nJVb96": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que vos lunettes de soleil protègent réellement contre le soleil ?",
-            "content": "<p>Oui, toutes nos lunettes de soleil offrent une protection à 100% contre les rayons UV (UVA et UVB). Elles sont conçues pour préserver vos yeux des effets nocifs du soleil tout en assurant confort et style.</p>"
-          }
-        },
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Expédiez-vous à l'étranger ?",
-            "content": "<p>Oui, nous livrons partout dans le monde. Des frais de livraison s'appliquent et seront ajoutés au moment du paiement. Nous proposons des réductions et des promotions toute l'année, alors restez connectés pour découvrir des offres exclusives.<br/><br/></p>"
+            "title": "Est-ce que vos lunettes ont une protection UV400 ?",
+            "content": "<p><br/>Oui, toutes nos lunettes sont équipées de verres avec protection UV400. Elles bloquent 100 % des rayons UVA et UVB pour protéger efficacement vos yeux du soleil.<br/><br/></p>"
           }
         },
         "166442457738b23caf-1": {
@@ -400,6 +421,13 @@
           "settings": {
             "title": "Combien de temps faudra-t-il pour recevoir mes commandes ?",
             "content": "<p>Cela dépend de votre localisation. Les commandes traitées ici prennent entre 5 et 7 jours ouvrés pour arriver. Les livraisons à l'étranger peuvent prendre entre 7 et 16 jours. Les détails de livraison seront indiqués dans votre e-mail de confirmation.<br/><br/></p>"
+          }
+        },
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Expédiez-vous à l'étranger ?",
+            "content": "<p>Oui, nous livrons partout dans le monde. Des frais de livraison s'appliquent et seront ajoutés au moment du paiement. Nous proposons des réductions et des promotions toute l'année, alors restez connectés pour découvrir des offres exclusives.<br/><br/></p>"
           }
         },
         "166442457738b23caf-2": {
@@ -411,9 +439,9 @@
         }
       },
       "block_order": [
-        "item_dgpGG3",
-        "166442457738b23caf-0",
+        "item_nJVb96",
         "166442457738b23caf-1",
+        "166442457738b23caf-0",
         "166442457738b23caf-2"
       ],
       "settings": {
