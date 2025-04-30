@@ -136,7 +136,7 @@
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
-        "block_size": "large",
+        "block_size": "medium",
         "subheading": "",
         "title": "",
         "content": "",
@@ -230,7 +230,7 @@
         "background": "",
         "background_gradient": "linear-gradient(0deg, rgba(121, 128, 252, 1), rgba(215, 204, 250, 1) 100%, rgba(247, 197, 204, 1) 100%)",
         "heading_text_color": "#000000",
-        "heading_gradient": "linear-gradient(24deg, rgba(26, 26, 26, 1) 72%, rgba(255, 39, 39, 0) 73%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 86%, rgba(26, 26, 26, 1) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%)",
+        "heading_gradient": "linear-gradient(24deg, rgba(0, 0, 0, 1) 72%, rgba(255, 39, 39, 0) 73%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 86%, rgba(26, 26, 26, 1) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
