@@ -510,9 +510,9 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "La lumière vous va si bien.",
-            "show_rating": false,
-            "rating": 4
+            "content": "J’aime trop elles sont magnifiques",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
