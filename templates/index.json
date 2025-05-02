@@ -509,15 +509,48 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
+            "author": "Eddi Belgeule",
             "content": "J’aime trop elles sont magnifiques",
             "show_rating": true,
             "rating": 5
           }
+        },
+        "quote_fiRYAH": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "J’adore c’est la 3ème que je commande",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_6J6raJ": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_fbBp97": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
         }
       },
       "block_order": [
-        "16644243327ba53d2a-1"
+        "16644243327ba53d2a-1",
+        "quote_fiRYAH",
+        "quote_6J6raJ",
+        "quote_fbBp97"
       ],
       "settings": {
         "full_width": true,
