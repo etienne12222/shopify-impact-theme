@@ -1,0 +1,581 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "slideshow",
+    "image_link_blocks_EdybJL",
+    "featured_collection_zRQLpY",
+    "impact-text",
+    "video_4AtFDE",
+    "scrolling-text",
+    "featured-product",
+    "faq",
+    "before-after-image",
+    "media-grid",
+    "press"
+  ],
+  "sections": {
+    "before-after-image": {
+      "settings": {
+        "after_image": "shopify://shop_images/IMG_1566.jpg",
+        "after_text": "Plutot Rose",
+        "after_text_color": "#ffffff",
+        "background": "",
+        "background_gradient": "",
+        "before_after_text_position": "bottom",
+        "before_image": "shopify://shop_images/IMG_1561.jpg",
+        "before_text": "Plutot Blue",
+        "before_text_color": "#ffffff",
+        "content": "",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000",
+        "drag_initial_position": 50,
+        "expand_image": false,
+        "full_width": true,
+        "subheading": "",
+        "text_color": "",
+        "text_position": "center",
+        "title": "Plutot bleu ou rose ?"
+      },
+      "type": "before-after-image"
+    },
+    "faq": {
+      "block_order": [
+        "item_nJVb96",
+        "166442457738b23caf-1",
+        "166442457738b23caf-0",
+        "166442457738b23caf-2"
+      ],
+      "blocks": {
+        "166442457738b23caf-0": {
+          "settings": {
+            "content": "<p>Oui, nous livrons partout dans le monde. Des frais de livraison s'appliquent et seront ajoutés au moment du paiement. Nous proposons des réductions et des promotions toute l'année, alors restez connectés pour découvrir des offres exclusives.<br/><br/></p>",
+            "title": "Expédiez-vous à l'étranger ?"
+          },
+          "type": "item"
+        },
+        "166442457738b23caf-1": {
+          "settings": {
+            "content": "<p>Cela dépend de votre localisation. Les commandes traitées ici prennent entre 5 et 7 jours ouvrés pour arriver. Les livraisons à l'étranger peuvent prendre entre 7 et 16 jours. Les détails de livraison seront indiqués dans votre e-mail de confirmation.<br/><br/></p>",
+            "title": "Combien de temps faudra-t-il pour recevoir mes commandes ?"
+          },
+          "type": "item"
+        },
+        "166442457738b23caf-2": {
+          "settings": {
+            "content": "<p>Vous pouvez nous contacter via notre page de contact ! Nous serons ravis de vous aider.<br/><br/></p>",
+            "title": "Des questions ?"
+          },
+          "type": "item"
+        },
+        "item_nJVb96": {
+          "settings": {
+            "content": "<p><br/>Oui, toutes nos lunettes sont équipées de verres avec protection UV400. Elles bloquent 100 % des rayons UVA et UVB pour protéger efficacement vos yeux du soleil.<br/><br/></p>",
+            "title": "Est-ce que vos lunettes ont une protection UV400 ?"
+          },
+          "type": "item"
+        }
+      },
+      "settings": {
+        "accordion_background": "",
+        "accordion_text_color": "",
+        "answer_time": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "button_background": "",
+        "button_text": "",
+        "button_text_color": "",
+        "button_url": "",
+        "content": "<p>Informations sur nos produits ou nos politiques d'expédition.<br/><br/></p>",
+        "full_width": false,
+        "heading_color": "",
+        "heading_gradient": "",
+        "subheading": "",
+        "support_hours": "Notre support client est disponible du lundi au vendredi : de 8h à 20h30.",
+        "team_avatar_width": 160,
+        "text_color": "",
+        "text_position": "start",
+        "title": "FAQ"
+      },
+      "type": "faq"
+    },
+    "featured-product": {
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "separator",
+        "description",
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "blocks": {
+        "badges": {
+          "settings": {},
+          "type": "badges"
+        },
+        "buy-buttons": {
+          "settings": {
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": "",
+            "show_gift_card_recipient": true,
+            "show_payment_button": true
+          },
+          "type": "buy_buttons"
+        },
+        "description": {
+          "settings": {
+            "collapse_content": false
+          },
+          "type": "description"
+        },
+        "price": {
+          "settings": {
+            "show_taxes_notice": false
+          },
+          "type": "price"
+        },
+        "quantity-selector": {
+          "settings": {},
+          "type": "quantity_selector"
+        },
+        "rating": {
+          "settings": {
+            "show_empty": false
+          },
+          "type": "rating"
+        },
+        "separator": {
+          "settings": {},
+          "type": "separator"
+        },
+        "title": {
+          "settings": {
+            "heading_tag": "h2"
+          },
+          "type": "title"
+        },
+        "variant-picker": {
+          "settings": {
+            "color_mode": "color",
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "size_chart_page": "",
+            "stack_blocks": true
+          },
+          "type": "variant_picker"
+        },
+        "vendor": {
+          "settings": {},
+          "type": "vendor"
+        }
+      },
+      "settings": {
+        "background": "#ffffff",
+        "background_gradient": "",
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_width": 55,
+        "enable_image_zoom": false,
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "full_width": false,
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": "",
+        "max_image_zoom_level": 3,
+        "mobile_carousel_control": "floating_dots",
+        "mobile_media_size": "expanded",
+        "product": "fashion-transparent-blue-round-sunglasses-women-men-2024-retro-rivet-tortoise-small-square-sun-glasses-uv400-lunettes-de-soleil",
+        "text_color": ""
+      },
+      "type": "featured-product"
+    },
+    "featured_collection_zRQLpY": {
+      "name": "Inspiration MOSCOT",
+      "settings": {
+        "background": "#ffffff",
+        "background_gradient": "",
+        "collection": "casques",
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "link_text": "Voir toutes les lunettes",
+        "link_url": "",
+        "product_card_background": "",
+        "product_card_text_color": "",
+        "products": [],
+        "products_count": 6,
+        "products_per_row_desktop": 3,
+        "products_per_row_mobile": "2",
+        "show_progress_bar": false,
+        "stack_products": true,
+        "subheading": "",
+        "text_color": "",
+        "title": "Inspiration MOSCOT"
+      },
+      "type": "featured-collection"
+    },
+    "image_link_blocks_EdybJL": {
+      "block_order": [
+        "item_CMa8wq",
+        "item_bmp3e8",
+        "item_zg6Uye",
+        "item_zTmDfY",
+        "item_cWmcQg",
+        "item_PLxWfB"
+      ],
+      "blocks": {
+        "item_CMa8wq": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/IMG_1565.jpg",
+            "link_text": "",
+            "link_url": "shopify://products/classic-pink",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_PLxWfB": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/IMG_1572.jpg",
+            "link_text": "",
+            "link_url": "shopify://products/vintage-fashion-shell-round-sunglasses-women-men-2024-brand-design-retro-rivet-yellow-blue-lens-square-sun-glasses-female-uv400-3",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_bmp3e8": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/IMG_1564.jpg",
+            "link_text": "",
+            "link_url": "shopify://products/fashion-transparent-blue-round-sunglasses-women-men-2024-retro-rivet-tortoise-small-square-sun-glasses-uv400-lunettes-de-soleil",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_cWmcQg": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/IMG_1563.jpg",
+            "link_text": "",
+            "link_url": "shopify://products/fashion-transparent-blue-round-sunglasses-women-men-2024-retro-rivet-tortoise-small-square-sun-glasses-uv400-lunettes-de-soleil",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_zTmDfY": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/IMG_1567.jpg",
+            "link_text": "",
+            "link_url": "shopify://products/vintage-fashion-shell-round-sunglasses-women-men-2024-brand-design-retro-rivet-yellow-blue-lens-square-sun-glasses-female-uv400-4",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        },
+        "item_zg6Uye": {
+          "settings": {
+            "background": "",
+            "image": "shopify://shop_images/IMG_1561.jpg",
+            "link_text": "",
+            "link_url": "shopify://products/classic-blue-1",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "stretch_image": true,
+            "text_color": "#ffffff"
+          },
+          "type": "item"
+        }
+      },
+      "name": "Image link blocks",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "block_size": "medium",
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "link_text": "",
+        "link_url": "",
+        "subheading": "",
+        "text_color": "",
+        "title": ""
+      },
+      "type": "image-link-blocks"
+    },
+    "impact-text": {
+      "block_order": [
+        "1664424181b38582d5-0",
+        "item_9mxw4p",
+        "item_HqxmRD"
+      ],
+      "blocks": {
+        "1664424181b38582d5-0": {
+          "settings": {
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2.7,
+            "button_text": "",
+            "button_url": "",
+            "content": "",
+            "subheading": "Taux de satisfaction",
+            "title": "98 %"
+          },
+          "type": "item"
+        },
+        "item_9mxw4p": {
+          "settings": {
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2.7,
+            "button_text": "",
+            "button_url": "",
+            "content": "",
+            "subheading": "Traitement rapide",
+            "title": "24 H"
+          },
+          "type": "item"
+        },
+        "item_HqxmRD": {
+          "settings": {
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 5,
+            "button_text": "",
+            "button_url": "",
+            "content": "",
+            "subheading": "Clients livrés",
+            "title": "2.878+"
+          },
+          "type": "item"
+        }
+      },
+      "settings": {
+        "background": "",
+        "background_gradient": "radial-gradient(rgba(121, 128, 252, 1), rgba(215, 204, 250, 1) 100%, rgba(247, 197, 204, 1) 100%)",
+        "button_background": "",
+        "button_text_color": "",
+        "full_width": true,
+        "heading_gradient": "linear-gradient(24deg, rgba(0, 0, 0, 1) 72%, rgba(255, 39, 39, 0) 73%, rgba(26, 26, 26, 0.2) 74%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 75%, rgba(26, 26, 26, 0.2) 82%, rgba(26, 26, 26, 0.2) 86%, rgba(26, 26, 26, 1) 100%, rgba(26, 26, 26, 0.2) 100%, rgba(26, 26, 26, 0.2) 100%)",
+        "heading_text_color": "#000000",
+        "impact_text_size_ratio": 1,
+        "impact_text_style": "fill",
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "text_color": "",
+        "text_divider": "line"
+      },
+      "type": "impact-text"
+    },
+    "media-grid": {
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "desktop_row_height": 290,
+        "full_width": true,
+        "mobile_row_height": 150,
+        "reduce_width": false
+      },
+      "type": "media-grid"
+    },
+    "press": {
+      "block_order": [
+        "16644243327ba53d2a-1",
+        "quote_fiRYAH",
+        "quote_6J6raJ",
+        "quote_fbBp97"
+      ],
+      "blocks": {
+        "16644243327ba53d2a-1": {
+          "settings": {
+            "author": "Eddi Belgeule",
+            "content": "J’aime trop elles sont magnifiques",
+            "logo_width": 100,
+            "rating": 5,
+            "show_rating": true
+          },
+          "type": "quote"
+        },
+        "quote_6J6raJ": {
+          "settings": {
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "logo_width": 100,
+            "rating": 4,
+            "show_rating": true
+          },
+          "type": "quote"
+        },
+        "quote_fbBp97": {
+          "settings": {
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "logo_width": 100,
+            "rating": 4,
+            "show_rating": true
+          },
+          "type": "quote"
+        },
+        "quote_fiRYAH": {
+          "settings": {
+            "author": "",
+            "content": "J’adore c’est la 3ème que je commande",
+            "logo_width": 100,
+            "rating": 4,
+            "show_rating": true
+          },
+          "type": "quote"
+        }
+      },
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content_size": "medium",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": "",
+        "text_color": ""
+      },
+      "type": "press"
+    },
+    "scrolling-text": {
+      "settings": {
+        "background": "#ffffff",
+        "background_gradient": "radial-gradient(rgba(121, 128, 252, 1), rgba(215, 204, 250, 1) 100%, rgba(247, 197, 204, 1) 100%)",
+        "full_width": false,
+        "scrolling_mode": "auto",
+        "scrolling_speed": 3,
+        "text": "Livraison dans le monde entier !",
+        "text_color": "",
+        "text_gradient": "",
+        "text_size": "small",
+        "text_style": "fill"
+      },
+      "type": "scrolling-text"
+    },
+    "slideshow": {
+      "block_order": [
+        "slide-1",
+        "slide-2"
+      ],
+      "blocks": {
+        "slide-1": {
+          "settings": {
+            "background": "",
+            "background_gradient": "",
+            "button_background": "#ffffff",
+            "button_link": "",
+            "button_text": "",
+            "button_text_color": "#000000",
+            "content_max_width": 780,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h0",
+            "image": "shopify://shop_images/IMG_9768.jpg",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "title": "𝑹𝒐𝒚𝒂𝒍 𝑮𝒍𝒂𝒔𝒔𝒆𝒔"
+          },
+          "type": "image"
+        },
+        "slide-2": {
+          "settings": {
+            "background": "",
+            "background_gradient": "",
+            "button_background": "#ffffff",
+            "button_link": "",
+            "button_text": "",
+            "button_text_color": "#000000",
+            "content_max_width": 780,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h0",
+            "image": "shopify://shop_images/IMG_0209.jpg",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "title": "𝑹𝒐𝒚𝒂𝒍 𝑮𝒍𝒂𝒔𝒔𝒆𝒔"
+          },
+          "type": "image"
+        }
+      },
+      "settings": {
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)",
+        "controls_type": "numbers",
+        "cycle_speed": 6,
+        "full_width": true,
+        "image_size": "auto",
+        "transition_type": "fade_with_text"
+      },
+      "type": "slideshow"
+    },
+    "video_4AtFDE": {
+      "block_order": [
+        "play_abiczW",
+        "heading_yVtHDc"
+      ],
+      "blocks": {
+        "heading_yVtHDc": {
+          "settings": {
+            "heading_tag": "h1",
+            "text": "Video"
+          },
+          "type": "heading"
+        },
+        "play_abiczW": {
+          "settings": {},
+          "type": "play"
+        }
+      },
+      "name": "Video",
+      "settings": {
+        "allow_transparent_header": true,
+        "autoplay": false,
+        "external_video_url": "https://www.youtube.com/watch?v=Ns7EPwcDtzY",
+        "full_width": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "poster": "shopify://shop_images/IMG_1598.jpg",
+        "text_color": "#ffffff",
+        "video": "shopify://files/videos/IMG_1667.mov",
+        "video_size": "sm"
+      },
+      "type": "video"
+    }
+  }
+}
