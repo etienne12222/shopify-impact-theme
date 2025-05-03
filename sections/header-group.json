@@ -54,6 +54,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/E55C2A37-6B8B-465C-AC4F-E365C2900FCD.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
