@@ -175,10 +175,9 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": false,
-        "video_size": "auto",
+        "video_size": "sm",
         "video": "shopify://files/videos/IMG_1667.mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "poster": "shopify://shop_images/IMG_1598.jpg",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
