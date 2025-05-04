@@ -426,9 +426,9 @@
         "quote_6J6raJ": {
           "settings": {
             "author": "",
-            "content": "Write some content about what they says about your store.",
+            "content": "j'ai pris pour mes enfants ils adorent !",
             "logo_width": 100,
-            "rating": 4,
+            "rating": 5,
             "show_rating": true
           },
           "type": "quote"
@@ -436,9 +436,9 @@
         "quote_fbBp97": {
           "settings": {
             "author": "",
-            "content": "Write some content about what they says about your store.",
+            "content": "Le rapport qualité prix est impressionant",
             "logo_width": 100,
-            "rating": 4,
+            "rating": 5,
             "show_rating": true
           },
           "type": "quote"
@@ -446,7 +446,7 @@
         "quote_fiRYAH": {
           "settings": {
             "author": "",
-            "content": "J’adore c’est la 3ème que je commande",
+            "content": "Recu en 7jours sinon top !",
             "logo_width": 100,
             "rating": 4,
             "show_rating": true
@@ -570,7 +570,6 @@
         "full_width": true,
         "overlay_color": "#000000",
         "overlay_opacity": 30,
-        "poster": "shopify://shop_images/IMG_1598.jpg",
         "text_color": "#ffffff",
         "video": "shopify://files/videos/IMG_1667.mov",
         "video_size": "sm"

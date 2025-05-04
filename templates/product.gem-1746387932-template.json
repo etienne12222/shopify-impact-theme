@@ -8,34 +8,58 @@
  * ------------------------------------------------------------
  */
 {
-  "order": [
-    "main",
-    "related-products",
-    "1745837786ab66e8a6",
-    "video_QVwPyk"
-  ],
   "sections": {
-    "1745837786ab66e8a6": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
         "badges": {
           "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
           "settings": {}
         },
         "buy_buttons": {
@@ -47,52 +71,6 @@
             "atc_button_text_color": "#000000",
             "payment_button_background": "",
             "payment_button_text_color": "#000000"
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": true
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
           }
         }
       },
@@ -148,19 +126,35 @@
         "product_card_text_color": ""
       }
     },
+    "1745837786ab66e8a6": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "video_QVwPyk": {
       "type": "video",
       "blocks": {
+        "play_gBDBaU": {
+          "type": "play",
+          "settings": {}
+        },
         "heading_FY7TzH": {
           "type": "heading",
           "settings": {
             "text": "Video",
             "heading_tag": "h1"
           }
-        },
-        "play_gBDBaU": {
-          "type": "play",
-          "settings": {}
         }
       },
       "block_order": [
@@ -180,5 +174,11 @@
         "overlay_opacity": 30
       }
     }
-  }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "1745837786ab66e8a6",
+    "video_QVwPyk"
+  ]
 }
