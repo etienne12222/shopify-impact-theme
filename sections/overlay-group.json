@@ -26,8 +26,8 @@
     "privacy-banner": {
       "type": "privacy-banner",
       "settings": {
-        "privacy_bar_title": "En ce moment -15% sur tout le boutique !",
-        "privacy_bar_content": ""
+        "privacy_bar_title": "",
+        "privacy_bar_content": "<p>En ce moment -15% sur tout le boutique !</p>"
       }
     },
     "cart-drawer": {
